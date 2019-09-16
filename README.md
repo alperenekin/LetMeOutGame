@@ -1,5 +1,4 @@
 # LetMeOutGame
-# ToDoList
  Simple  LetMeOutGame command line program. The aim is entering correct moves to finish the game.
 ## Installation and Setup Instructions
 
